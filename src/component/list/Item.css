@@ -1,0 +1,22 @@
+.item{
+	border-bottom:1px solid black;
+}
+.item div{
+	display:inline-block;
+}
+.list_img{
+	border:2px solid darkgreen;
+	margin-right:20px;
+}
+.list_img img{
+	width:150px;
+	height:100px;
+}
+.price{
+	color:red;
+	font-weight:bold;
+}
+.count{
+	color:darkgreen;
+	font-weight:bold;
+}
